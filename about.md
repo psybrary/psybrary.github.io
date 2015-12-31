@@ -20,7 +20,7 @@ Each prayer accepted and each wish resigned.
 
 ### More Information
 
-* [github](https://github.com/psybrary)
+* [github](https://github.com/psybrary/psybrary.github.io)
 * [페이스북 그룹](https://www.facebook.com/groups/psybrary)
 
 
