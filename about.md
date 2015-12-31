@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![이터널선샤인](images/psybrary.jpg)
+![이터널선샤인](https://raw.githubusercontent.com/psybrary/psybrary.github.io/master/images/psybrary.jpg)
 
 처녀의 제비뽑기와
 잊혀진 세상에 의해 잊혀져가는 세상과
